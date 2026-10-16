@@ -1,2 +1,1 @@
-<img width="220" height="223" alt="Image" src="https://github.com/user-attachments/assets/7fe24dca-7ed2-4215-909f-3ac9cc28dd54" />
-i am not cool   so you better run
+<img width="1280" height="1280" alt="Image" src="https://github.com/user-attachments/assets/02d859c5-212e-410e-a611-bb30430ebbff" />
